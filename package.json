@@ -1,0 +1,30 @@
+{
+  "name": "express-customer-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "body-parser": "1.19.0",
+    "dotenv": "8.2.0",
+    "express": "4.17.1",
+    "express-jwt": "6.0.0",
+    "jsonwebtoken": "8.5.1",
+    "mongoose": "5.10.9",
+    "mongoose-timestamp": "0.6.0",
+    "morgan": "1.10.0",
+    "restify": "8.5.1",
+    "restify-jwt-community": "1.1.5",
+    "standard-http-error": "2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.5"
+  }
+}
