@@ -3,6 +3,7 @@
 .vscode/settings.json
 built/**/*
 nodemon.json*
+*.http
 
 # Logs
 logs
