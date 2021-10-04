@@ -20,8 +20,6 @@
     "mongoose": "5.10.9",
     "mongoose-timestamp": "0.6.0",
     "morgan": "1.10.0",
-    "restify": "8.5.1",
-    "restify-jwt-community": "1.1.5",
     "standard-http-error": "2.0.1"
   },
   "devDependencies": {
